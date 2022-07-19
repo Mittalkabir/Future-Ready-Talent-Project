@@ -41,3 +41,5 @@ Project Demo URL: https://green-meadow-03699f610.1.azurestaticapps.net
 
 d. Video URL demonstrating project demo, Azure service used and deployment of code on any Azure service in Github readme is preferred.
 
+   video link- https://drive.google.com/file/d/18R_me3vEeBM2CDtspvc-p3seJI3L-R86/view?usp=drivesdk
+
