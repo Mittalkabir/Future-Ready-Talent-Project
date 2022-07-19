@@ -20,9 +20,7 @@ Static Web Apps, Static Web Apps.
 
 Project Link (GitHub repository URL): 
 
-Project Demo URL: 
-
-
+Project Demo URL: https://mango-mud-0dd348810.1.azurestaticapps.net/
 
 <img width="936" alt="1" src="https://user-images.githubusercontent.com/72194186/178821058-7c66bafc-4167-4c3f-abcd-db6181cc3f80.png">
 <img width="774" alt="2" src="https://user-images.githubusercontent.com/72194186/178821103-e34986b3-1900-42ee-8018-83c0646aba9d.png">
