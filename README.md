@@ -18,7 +18,7 @@ Brick is a Real Estate website that people can use to find their dream homes. Th
 Primary Azure Technology*:
 Static Web Apps, Static Web Apps.
 
-Project Link (GitHub repository URL): 
+Project Link (GitHub repository URL): https://github.com/Mittalkabir/Future-Ready-Talent-Project.git
 
 Project Demo URL: https://mango-mud-0dd348810.1.azurestaticapps.net/
 
